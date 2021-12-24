@@ -515,7 +515,7 @@ p {
 .footer-container {
   display: flex;
   flex-direction: column;
-  height: 44.73vh;
+  height: 47.73vh;
   width: 100vw;
   background-color: #D84E00;
 }
@@ -568,7 +568,7 @@ input[type="submit"] {
   display: flex;
   justify-content: space-between;
   align-content: flex-end;
-  margin: 12vh 40px 10px 40px;
+  margin: 12vh 40px 20px 40px;
 }
 
 .s7-bottom .s7-24 {
